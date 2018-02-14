@@ -1,10 +1,6 @@
 # RtmBot
 ->Rtm Bot is a application which runs on a slack channel using slack Api, wti api for NLP and google api for time.
-Steps to run:-
-Install node modules
-1. npm install --save express
-2. npm install --save superagent
-3. npm install --save @slack/client
+Steps to run:-    npm install
 
 Generate  Tokens mentioned  below :-
 
